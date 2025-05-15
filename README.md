@@ -1,11 +1,11 @@
 
 # 📚 Reading Tracker Dashboard
 
-Insert Image Here
+![excel_dashboard_highlights](https://github.com/user-attachments/assets/4c8e69a5-c4e0-45d8-9cd5-425d1211e96b)
 
 ## Introduction
 
-This **Reading Tracker Dashboard** was created to help myself to visualize and analyze my reading habits over time. It provides insights into genres, formats, reading durations, and author demographics. The data is compiled from personal reading logs and showcases how Excel can be used to build a dynamic and interactive dashboard.
+This **Reading Tracker Dashboard** was created to help myself to visualize and analyze my reading habits over time. It provides insights into genres, formats, reading time, and author demographics. The data is compiled from personal reading logs and showcases how Excel can be used to build a dynamic and interactive dashboard.
 
 ### 📁 Dashboard File
 
