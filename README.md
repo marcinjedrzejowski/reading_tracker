@@ -41,7 +41,7 @@ Visual breakdown of books read across different formats:
 
 ### 🌍 Books by Author Nationality
 
-A map/chart showing the distribution of books read by the author's country of origin.
+A map chart showing the distribution of books read by the author's country of origin.
 
 ### 📅 Pages Read per Year
 
@@ -49,11 +49,11 @@ A time-series chart showing how many pages were read each year, helping track re
 
 ### 🏆 Top 5 Genres
 
-A bar chart highlighting the most frequently read genres, with **Fantasy** leading the list.
+A ranking of the most frequently read genres, with **Fantasy** leading the list.
 
-### ⏳ Average Reading Time
+### ⏳ Important KPIs
 
-Insights into how many days it typically takes to finish a book.
+Important KPIs like **Average Reading Time**, **Total Pages Read** or **Total Books Read**.
 
 ## 🧠 Formulas and Functions
 
